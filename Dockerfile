@@ -2,7 +2,7 @@
 FROM centos:7
 
 # 维护者信息
-LABEL maintainer="Rabbir admin@cs.cheap"
+LABEL maintainer="wanddy wanddy@163.com"
 
 # Docker 内用户切换到 root
 USER root
